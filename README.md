@@ -292,35 +292,6 @@ StudentManagement/
 ├── Program.cs
 └── StudentManagement.csproj
 ```
-
-## Interview-Relevant Concepts Demonstrated
-
-This project demonstrates practical understanding of:
-
-- ASP.NET Core MVC
-- MVC architecture
-- Controllers and routing
-- Razor Views
-- Model binding
-- ModelState validation
-- Dependency Injection
-- Service Layer
-- Repository Pattern
-- Entity Framework Core
-- DbContext and DbSet
-- LINQ
-- SQL Server
-- REST API design
-- HTTP methods: GET, POST, PUT, DELETE
-- Async/Await
-- Middleware
-- Exception handling
-- DTOs and ViewModels
-- Entity Framework Core migrations
-- Search, sorting, and pagination
-- Soft delete
-- Git and GitHub
-
 ## Learning Outcomes
 
 Through this project, I practiced building a complete ASP.NET Core application from database layer to UI and REST API. The project helped strengthen my understanding of clean separation of concerns, dependency injection, Entity Framework Core, CRUD operations, database migrations, API development, and Git-based project management.
