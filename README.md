@@ -321,30 +321,6 @@ This project demonstrates practical understanding of:
 - Soft delete
 - Git and GitHub
 
-## Screenshots
-
-### Dashboard
-
-Add a project screenshot here, for example:
-
-```text
-screenshots/dashboard.png
-```
-
-### Student List
-
-```text
-screenshots/students-list.png
-```
-
-### Swagger API
-
-```text
-screenshots/swagger.png
-```
-
-> To add screenshots, create a `screenshots` folder in the repository, place the images inside it, and replace the placeholders above with Markdown image links such as `![Dashboard](screenshots/dashboard.png)`.
-
 ## Learning Outcomes
 
 Through this project, I practiced building a complete ASP.NET Core application from database layer to UI and REST API. The project helped strengthen my understanding of clean separation of concerns, dependency injection, Entity Framework Core, CRUD operations, database migrations, API development, and Git-based project management.
